@@ -7,7 +7,7 @@ O VamoAI é um projeto de formação de analistas de dados, através de uma parc
 
 ---
 ## **Tableau Public**
-* [Projeto Final Curso VamoAI: Natascha_Dados_Pessoais](https://public.tableau.com/app/profile/natascha.fontanesi.weber/viz/natascha_dados_pessoais/Spotify)
+* [Projeto Final Curso VamoAI: Natascha_Dados_Pessoais](https://public.tableau.com/app/profile/natascha.fontanesi.weber/viz/natascha_dados_pessoais/Histria1?publish=yes)
 ---
 ## **Integrantes**
 - [Natascha Fontanesi Weber](https://www.linkedin.com/in/natascha-fontanesi-weber)
